@@ -713,8 +713,8 @@
 <script setup lang="ts">
 import jsPDF from "jspdf";
 import html2canvas from "html2canvas"; // Alternative for complex styling
-import pqUploadFiles from "@/views/InventoryModuleView/Purchasing/pqUploadFiles.vue";
-import pdfContent from "@/views/InventoryModuleView/Purchasing/pqContentToPdf.vue";
+import pqUploadFiles from "@/views/InventoryModuleView/purchasing/pqUploadFiles.vue";
+import pdfContent from "@/views/InventoryModuleView/purchasing/pqContentToPdf.vue";
 
 import BreadCrumpsComponent from "@/components/Layouts/AppLayoutComponents/BreadCrumpsComponent.vue";
 import ButtonComponent from "@/components/Layouts/AppLayoutComponents/ButtonComponent.vue";

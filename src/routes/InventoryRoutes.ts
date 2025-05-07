@@ -190,7 +190,7 @@ const inventoryRoutes: RouteRecordRaw[] = [
             path: "RFQ/:operation_id",
             name: "RFQ",
             component: () =>
-              import("@/views/InventoryModuleView/Purchasing/RFQsView.vue"),
+              import("@/views/InventoryModuleView/purchasing/RFQsView.vue"),
             meta: {
               showLayout: true,
               autoOpenSidebar: false,
@@ -203,7 +203,7 @@ const inventoryRoutes: RouteRecordRaw[] = [
             name: "RFQ-details",
 
             component: () =>
-              import("@/views/InventoryModuleView/Purchasing/RFQDetails.vue"),
+              import("@/views/InventoryModuleView/purchasing/RFQDetails.vue"),
             meta: {
               showLayout: true,
               autoOpenSidebar: false,
@@ -216,7 +216,7 @@ const inventoryRoutes: RouteRecordRaw[] = [
             name: "add-RFQ-item",
 
             component: () =>
-              import("@/views/InventoryModuleView/Purchasing/AddRFQ.vue"),
+              import("@/views/InventoryModuleView/purchasing/AddRFQ.vue"),
             meta: {
               showLayout: true,
               autoOpenSidebar: false,
@@ -234,7 +234,7 @@ const inventoryRoutes: RouteRecordRaw[] = [
             path: "PQ/:operation_id",
             name: "PQ",
             component: () =>
-              import("@/views/InventoryModuleView/Purchasing/PQsView.vue"),
+              import("@/views/InventoryModuleView/purchasing/PQsView.vue"),
             meta: {
               showLayout: true,
               autoOpenSidebar: false,
@@ -247,7 +247,7 @@ const inventoryRoutes: RouteRecordRaw[] = [
             name: "PQ-details",
 
             component: () =>
-              import("@/views/InventoryModuleView/Purchasing/PQDetails.vue"),
+              import("@/views/InventoryModuleView/purchasing/PQDetails.vue"),
             meta: {
               showLayout: true,
               autoOpenSidebar: false,
@@ -358,14 +358,14 @@ const inventoryRoutes: RouteRecordRaw[] = [
         path: "receive-operation/:operation_id",
         name: "Receive-Operation",
         component: () =>
-          import("@/views/InventoryModuleView/Purchasing/receiveView.vue"),
+          import("@/views/InventoryModuleView/purchasing/receiveView.vue"),
       },
       // receive details
       {
         path: "receive-operation-details/:form_id/:operation_id",
         name: "Receive-Operation-Details",
         component: () =>
-          import("@/views/InventoryModuleView/Purchasing/receiveDetails.vue"),
+          import("@/views/InventoryModuleView/purchasing/receiveDetails.vue"),
       },
       //vendors
       {
