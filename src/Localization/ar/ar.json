@@ -1,0 +1,1124 @@
+{
+  "lang": "arabic",
+  "Hello": "مرحبًا",
+  "reset": "إعادة ضبط",
+  "save": "حفظ",
+  "create_return": "إنشاء مرتجع",
+  "inbox": "الصندوق الوارد",
+  "accept": "قبول",
+  "next": "التالي",
+  "previous": "السابق",
+  "Logout": "تسجيل الخروج",
+  "language": "اللغة",
+  "thanks": "شكرًا لك",
+  "english": "الإنجليزية",
+  "arabic": "العربية",
+  "global_error": "حدث خطأ ما، يرجى المحاولة مرة أخرى",
+  "no_data": "لا توجد بيانات",
+  "open": "فتح",
+  "delete": "حذف",
+  "close": "إغلاق",
+  "confirm": "تأكيد",
+  "reopen": "إعادة فتح",
+  "PQ_open": "فتح PQ",
+  "PQ_confirmed": "تم تأكيد PQ",
+  "view_items": "عرض العناصر",
+  "Working On It": "جاري العمل عليه",
+  "Send To PQ": "إرسال إلى PQ",
+  "Received From PQ": "تم الاستلام من PQ",
+  "Show All": "عرض الكل",
+  "Requested Quantity": "الكمية المطلوبة",
+  "Enter Requested Quantity": "أدخل الكمية المطلوبة",
+  "Current Quantity": "الكمية الحالية",
+  "Item": "اسم الصنف",
+  "Sku Code": "رمز SKU",
+  "Quantity": "الكمية",
+  "Actions": "الإجراءات",
+  "Form Label": "تسمية النموذج",
+  "date": "التاريخ",
+  "created_at": "تاريخ الإنشاء",
+  "New Orders": "الطلبات الجديدة",
+  "Quoted By": "مقدمة من",
+  "Billed": "مسعره",
+  "PQ Operations": "عمليات PQ",
+  "At": "في",
+  "By": "بواسطة",
+  "Add Items": "إضافة أصناف",
+  "Create Items": "إنشاء صنف",
+  "Description": "الوصف",
+  "Form Code": "رمز النموذج",
+  "Total Price": "السعر الإجمالي",
+  "Add New Custody": "إضافة عهدة جديدة",
+  "Type": "النوع",
+  "Amount": "المبلغ",
+  "Add Amount": "إضافة مبلغ",
+  "Custody Type": "نوع العهدة",
+  "permanent": "دائمة",
+  "settlement": "تسوية",
+  "temporary": "مؤقتة",
+  "Add Description": "إضافة وصف",
+  "Custody Added Successfully": "تمت إضافة العهدة بنجاح",
+  "Payment History": "سجل الدفعات",
+  "Bills": "الفواتير",
+  "BILL-Details": "تفاصيل الفاتورة",
+  "Item Discount": "خصم الصنف",
+  "Total paid": "الإجمالي المدفوع",
+  "confirmed_price": "السعر المؤكد",
+  "buyer": "المشتري",
+  "total_paid_amount": "إجمالي المبلغ المدفوع",
+  "Location From": "الموقع من",
+  "location to": "الموقع إلى",
+  "payment_type": "نوع الدفع",
+  "payment_method": "طريقة الدفع",
+  "editBill": "تعديل الفاتورة",
+  "Custody Recipient": "مستلم العهدة",
+  "Color": "اللون",
+  "Create Custody": "إنشاء عهدة",
+  "Start Qoutation": "بدء عرض الأسعار",
+  "Select Vendor": "اختيار المورد",
+  "Print Table": "طباعة الجدول",
+  "Generate PDF": "إنشاء PDF",
+  "Custodys": "العهد",
+  "Receives": "عمليات الاستلام",
+  "Uplaod Files": "تحميل الملفات",
+  "Save Files": "حفظ الملفات",
+  "New File": "ملف جديد",
+  "description": "الوصف",
+  "Name": "الاسم",
+  "File": "الملف",
+  "Size": "الحجم",
+  "Generate Bill": "إنشاء فاتورة",
+  "Vendor": "المورد",
+  "Status": "الحالة",
+  "Quoted": "مُقدمة",
+  "Approved": "مُعتمدة",
+  "Receipt": "إيصال",
+  "Choose Bill Type": "اختيار نوع الفاتورة",
+  "Create Settlement": "إنشاء تسوية",
+  "Invoice": "فاتورة",
+  "Tax Invoice": "فاتورة ضريبية",
+  "Bill Type": "نوع الفاتورة",
+  "Edit Bill Type": "تعديل نوع الفاتورة",
+  "Tax Value": "قيمة الضريبة",
+  "Add Batch": "إضافة دفعة",
+  "Select Batch": "اختر دفعة",
+  "Expiration Date": "تاريخ الانتهاء",
+  "Choose Batch": "اختر دفعة",
+  "Add New Batch": "إضافة دفعة جديدة",
+  "Add Item Batch": "إضافة دفعة صنف",
+  "PQs": "طلبات الشراء",
+  "Num": "رقم",
+  "Add Custody": "اضافة عهدة",
+  "Custodys Operations": "عمليات العهد",
+  "Custody User": "المستفيد بالعهده",
+  "Bill Details Operations": "تفاصيل الفاتوره",
+
+  "side-bar": {
+    "dashboard": "لوحة التحكم",
+    "inbox": "صندوق الوارد",
+    "import_receive": "استلام الاستيراد",
+    "operations": "العمليات",
+    "vendors": "الموردون",
+    "create_self_service": "إنشاء خدمة ذاتية",
+    "print_screen": "طباعة الشاشة",
+    "show_room": "غرفة العرض"
+  },
+  "countries": {
+    "egypt": "مصر",
+    "united_arab_emirates": "الإمارات العربية المتحدة",
+    "turkey": "تركيا"
+  },
+  "status": {
+    "open": "مفتوح",
+    "close": "مغلق",
+    "confirm": "مؤكد",
+    "already_added": "تمت الإضافة مسبقًا",
+    "Waiting For Receive": "في انتظار الاستلام"
+  },
+  "form_titles": {
+    "adjustment": {
+      "add": "الجرد",
+      "edit": "تعديل الجرد"
+    },
+    "release": {
+      "add": "إصدار",
+      "edit": "تعديل الإصدار"
+    }
+  },
+  "toast": {
+    "items_added": "تمت إضافة العنصر بنجاح",
+    "items-added-error": "حدث خطأ أثناء إضافة العناصر",
+    "timeout_error": "لا يوجد اتصال بالإنترنت، تأكد من أن جهازك متصل بالإنترنت"
+  },
+  "search": "بحث",
+  "loading-btn": "جارٍ التحميل",
+  "login": {
+    "side-bar": {
+      "head": "مرحبًا بعودتك!",
+      "sub-head": "مرحبًا بك في نظام ERP الخاص بـ Elalfy. يرجى تسجيل الدخول للمتابعة."
+    },
+    "form": {
+      "system-login": "تسجيل الدخول للنظام",
+      "no-account": "ليس لديك حساب؟",
+      "new-account": "أنشئ حسابك",
+      "user-name": "اسم المستخدم",
+      "password": "كلمة المرور",
+      "remember-me": "تذكرني",
+      "forget-password": "هل نسيت كلمة المرور؟",
+      "submit": "تسجيل الدخول",
+      "errors": {
+        "required-email": "البريد الإلكتروني مطلوب",
+        "required-pass": "كلمة المرور مطلوبة",
+        "invild-credentials": "بيانات الاعتماد غير صحيحة"
+      }
+    }
+  },
+  "auth": {
+    "login": "تسجيل الدخول",
+    "back": "رجوع",
+    "title": "إنشاء حساب",
+    "description": "كن عضوًا واستمتع بالعروض الحصرية.",
+    "labels": {
+      "name": "الاسم الكامل",
+      "name_length": "يجب أن يكون الاسم على الأقل 4 أحرف",
+      "mobile": "رقم الهاتف المحمول",
+      "email": "بريدك الإلكتروني",
+      "password_confirmation": "تأكيد كلمة المرور",
+      "password": "كلمة المرور",
+      "remember": "تذكرني",
+      "terms_conditions": "يجب الموافقة على الشروط والأحكام"
+    }
+  },
+  "otp": {
+    "title": "تأكيد رقم الهاتف المحمول",
+    "sub-title": "أدخل الرمز المُرسل إلى رقم هاتفك المحمول.",
+    "btn": "تأكيد الحساب",
+    "no-code": "لم تستلم الرمز؟",
+    "new-code": "إعادة إرسال الرمز"
+  },
+  "welcome": {
+    "title": "مرحباً بك مجدداً في",
+    "routes": {
+      "settings": "الإعدادات",
+      "item_settings": "إعدادات العناصر"
+    }
+  },
+  "setting": {
+    "r1": {
+      "text": "العمليات"
+    },
+    "r2": {
+      "text": "المواقع"
+    },
+    "r3": {
+      "text": "المستخدمون"
+    }
+  },
+
+  "dashboard": {
+    "locationDashboard": "لوحة تحكم الموقع"
+  },
+  "table": {
+    "item_batch": "دفعة الصنف",
+    "barcode": "الباركود",
+    "date": "التاريخ",
+    "source_operation": "العملية المصدر",
+    "operation_type": "نوع العملية",
+    "source_operation_type": "نوع العملية المصدر",
+    "finish_level": "مستوى التشطيب",
+    "material_name": "اسم المادة",
+    "item_name": "اسم الصنف",
+    "specifications": "المواصفات",
+    "shape_name": "اسم الشكل",
+    "sku_code": "رمز تعريف المنتج",
+    "operation_quantity": "كمية التشغيل",
+    "quantity": "الكمية",
+    "category_name": "اسم الفئة",
+    "origin_name": "اسم المنشأ",
+    "quantity_after": "الكمية بعد",
+    "actual_quantity": "الكمية الفعلية",
+    "action": "الإجراءات",
+    "item_quantity": "الكمية",
+    "unit_cost": "تكلفة الوحدة",
+    "uom": "وحدة القياس",
+    "total_cost": "التكلفة الإجمالية",
+    "batch_num": "رقم الدفعة",
+    "production_date": "تاريخ الإنتاج",
+    "card_name": "اسم الصنف",
+    "Sku Code": "رمز تعريف المنتج",
+    "form_lable": "نموذج التسمية",
+    "source_location": "الموقع الأصلي",
+    "destination_location": "الوجهة",
+    "form_date_time": "تاريخ النموذج",
+    "created_by": "تم الإنشاء بواسطة",
+    "work_order_line_num": "أمر الشغل",
+    "doc_number": "رقم المستند",
+    "created_at": "تم الإنشاء في",
+    "confirmed_at": "تم التأكيد في",
+    "status": "الحالة",
+    "actions": "الإجراءات"
+  },
+  "operations": {
+    "BreadCrump": "العمليات",
+    "add-operation-btn": "إضافة عملية",
+    "operation-type-options": {
+      "option-1": {
+        "text": "استلام"
+      },
+      "option-2": {
+        "text": "إصدار"
+      },
+      "option-3": {
+        "text": "مرتجع استلام"
+      },
+      "option-4": {
+        "text": "مرتجع إصدار"
+      },
+      "option-5": {
+        "text": "طلب عرض أسعار"
+      },
+      "option-6": {
+        "text": "جرد"
+      },
+      "option-7": {
+        "text": "عرض أسعار"
+      },
+      "option-8": {
+        "text": "طلب عرض أسعار"
+      },
+      "option-9": {
+        "text": "العهدة"
+      }
+    },
+    "table": {
+      "form_name": "العمليات",
+      "id": "المعرف",
+      "operation-name_en": "اسم العملية بالإنجليزية",
+      "operation-name_ar": "اسم العملية بالعربية",
+      "operation-type": "نوع العملية",
+      "reference-document-type": "نوع المستند المرجعي",
+      "action": "الإجراء"
+    },
+    "form": {
+      "I1": {
+        "label": "اسم العملية بالإنجليزية",
+        "placeholder": "أدخل اسم العملية"
+      },
+      "I2": {
+        "label": "اسم العملية بالعربية",
+        "placeholder": "أدخل اسم العملية بالعربية"
+      },
+      "I3": {
+        "label": "نوع العملية",
+        "placeholder": "أدخل نوع العملية"
+      },
+      "I4": {
+        "label": "الأصل",
+        "placeholder": "أدخل الأصل",
+        "option-one": ""
+      },
+      "I5": {
+        "label": "مستند مرجعي",
+        "placeholder": "أدخل المستند المرجعي"
+      },
+      "errors": {
+        "name": "اسم العملية مطلوب",
+        "type": "نوع العملية مطلوب",
+        "parent": "",
+        "reference": "نوع المستند المرجعي"
+      },
+      "submit": "إضافة عملية",
+      "success": "تمت إضافة العملية بنجاح"
+    }
+  },
+  "locations": {
+    "BreadCrump": "المواقع",
+    "add-location-btn": "إضافة موقع",
+    "operation-type-options": {
+      "option-1": {
+        "text": "داخل"
+      },
+      "option-2": {
+        "text": "خارج"
+      },
+      "option-3": {
+        "text": "مرتجع داخلي"
+      },
+      "option-4": {
+        "text": "مرتجع خارجي"
+      },
+      "option-5": {
+        "text": "طلب عرض أسعار"
+      },
+      "option-6": {
+        "text": "GRD"
+      }
+    },
+    "table": {
+      "form_name": "المواقع",
+      "id": "المعرف",
+      "location-name": "اسم الموقع",
+      "short-name": "الاسم المختصر",
+      "location-type": "نوع الموقع",
+      "action": "الإجراء",
+      "Country": "البلد",
+      "zone": "المنطقة",
+      "view_operations": "عرض العمليات",
+      "errors": {
+        "name": "اسم الموقع مطلوب",
+        "short_name": "نوع الاسم المختصر مطلوب",
+        "location_type": "نوع الموقع مطلوب",
+        "country": "الدولة مطلوبة",
+        "zone_name": "اسم المنطقة مطلوب",
+        "short_name_exist": "يجب أن يكون الاسم المختصر فريداً"
+      }
+    },
+    "form": {
+      "I1": {
+        "label": "اسم الموقع",
+        "placeholder": "أدخل اسم الموقع"
+      },
+      "I2": {
+        "label": "الاسم المختصر",
+        "placeholder": "أدخل الاسم المختصر"
+      },
+      "I3": {
+        "label": "نوع الموقع",
+        "placeholder": "أدخل نوع الموقع",
+        "option-one": ""
+      },
+      "I4": {
+        "label": "الدولة",
+        "placeholder": "اختر دولتك"
+      },
+      "I5": {
+        "label": "المنطقة الزمنية",
+        "placeholder": "اختر منطقتك الزمنية"
+      },
+      "submit": "إضافة موقع",
+      "success": "تمت إضافة الموقع بنجاح"
+    }
+  },
+  "adjustment_content": {
+    "title": "عملية الجرد",
+    "description": "إدارة العناصر المخزونة ومراقبة مستويات المخزون.",
+    "actionText": "إضافة طلب جرد جديد",
+    "buttonText": "إضافة عناصر",
+    "view_operations": "عرض العمليات"
+  },
+  "users": {
+    "add-operation-btn": "إضافة مستخدم",
+    "BreadCrump": "المستخدمون",
+    "user-profile-btn": "عرض الملف الشخصي",
+    "all-users-btn": "جميع المستخدمين",
+    "table": {
+      "id": "المعرف",
+      "name": "الاسم",
+      "email": "البريد الإلكتروني",
+      "actions": "الإجراء",
+      "toggle(active)": "نشط/غير نشط",
+      "table_label": "المستخدمون",
+      "form_name": "المستخدمون",
+      "action": {
+        "a1": "حالة المستخدم",
+        "a2": "عرض الملف الشخصي"
+      }
+    },
+    "form": {
+      "I1": {
+        "label": "الاسم",
+        "placeholder": "أدخل اسم المستخدم"
+      },
+      "I2": {
+        "label": "البريد الإلكتروني",
+        "placeholder": "أدخل بريد المستخدم الإلكتروني"
+      },
+      "I3": {
+        "label": "كلمة المرور",
+        "placeholder": "أدخل كلمة المرور",
+        "option-one": ""
+      },
+      "I4": {
+        "label": "تأكيد كلمة المرور",
+        "placeholder": "أدخل كلمة المرور مرة أخرى"
+      },
+      "I5": {
+        "label": "اختر المواقع (اختياري)"
+      },
+      "errors": {
+        "name": "الاسم مطلوب",
+        "email": "البريد الإلكتروني مطلوب",
+        "password": "كلمة المرور مطلوبة",
+        "password_confirmation": "تأكيد كلمة المرور مطلوب",
+        "passwords_must_match": "يجب أن تكون كلمات المرور متطابقة",
+        "email-exists": "البريد الإلكتروني موجود بالفعل",
+        "weak_password": "يجب أن تحتوي كلمة المرور على حرف واحد على الأقل، رقم، وأن تكون أطول من 8 أحرف."
+      },
+      "submit": "إضافة مستخدم",
+      "success": "تمت إضافة المستخدم بنجاح"
+    }
+  },
+  "user_profile": {
+    "action_btn": "إضافة إلى الموقع",
+    "no-locations": "لم يتم العثور على مواقع",
+    "add-btn": "إضافة",
+    "table": {
+      "name": "اسم الموقع",
+      "role": "دور المستخدم",
+      "actions": "الإجراء",
+      "errors": {
+        "name": "الاسم مطلوب",
+        "email": "البريد الإلكتروني مطلوب",
+        "password": "كلمة المرور مطلوبة",
+        "password_confirmation": "تأكيد كلمة المرور مطلوب",
+        "passwords_must_match": "يجب أن تتطابق كلمات المرور"
+      },
+      "action": {
+        "a1": "عرض الملف الشخصي"
+      }
+    }
+  },
+  "items-setting": {
+    "r1": {
+      "text": "شكل المواد"
+    },
+    "r2": {
+      "text": "وحدة القياس"
+    },
+    "r3": {
+      "text": "مستوى التشطيب"
+    },
+    "r4": {
+      "text": "مصدر المواد"
+    },
+    "r5": {
+      "text": "دفعة العناصر"
+    },
+    "r6": {
+      "text": "عنوان المواد"
+    },
+    "r7": {
+      "text": "الفئات"
+    },
+    "r8": {
+      "text": "مجموعة الحزم"
+    }
+  },
+  "categories": {
+    "BreadCrump": "الفئات",
+    "add-operation-btn": "إضافة فئة",
+    "table": {
+      "id": "المعرف",
+      "cat_name": "اسم الفئة",
+      "cat_parent": "الفئة الرئيسية",
+      "shapes": "الأشكال",
+      "titles": "العناوين",
+      "is-singal-value": "قيمة مفردة",
+      "no_parent": "لا يوجد رئيسية",
+      "no_shapes": "لا توجد أشكال",
+      "no_titles": "لا توجد عناوين",
+      "status": "الحالة",
+      "actions": "الإجراءات",
+      "add_shape_btn": "إضافة شكل"
+    },
+    "form": {
+      "I1": {
+        "label": "اسم الفئة",
+        "placeholder": "أدخل اسم الفئة"
+      },
+      "I2": {
+        "label": "الفئة الرئيسية",
+        "placeholder": "أدخل الفئة الرئيسية"
+      },
+      "I3": {
+        "label": "قيمة مفردة",
+        "placeholder": "قيمة مفردة",
+        "option-one": ""
+      },
+      "I4": {
+        "label": "الحالة",
+        "placeholder": "اختر الحالة"
+      },
+      "I5": {
+        "label": "المنطقة",
+        "placeholder": "أدخل المنطقة"
+      },
+      "options": {
+        "o1": "مفتوح",
+        "o2": "مغلق"
+      },
+      "submit": "إضافة فئة",
+      "success": "تمت إضافة الفئة بنجاح",
+      "errors": {
+        "name": "اسم الفئة مطلوب",
+        "parent": "الفئة الرئيسية مطلوبة",
+        "single_value": "القيمة المفردة مطلوبة",
+        "status": "الحالة مطلوبة",
+        "shape_name": "اسم الشكل مطلوب"
+      }
+    }
+  },
+  "material-shape": {
+    "BreadCrump": "شكل المادة",
+    "add-operation-btn": "إضافة شكل",
+    "table": {
+      "id": "المعرف",
+      "shape-name": "اسم الشكل",
+      "cat-id": "الفئة الرئيسية للشكل",
+      "desc": "الوصف",
+      "category": "الفئة",
+      "action": "الإجراءات"
+    },
+    "form": {
+      "I1": {
+        "label": "اسم الشكل",
+        "placeholder": "أدخل اسم الشكل"
+      },
+      "I2": {
+        "label": "وصف الشكل",
+        "placeholder": "أدخل وصف الشكل"
+      },
+      "I3": {
+        "label": "معرف الفئة",
+        "placeholder": "معرف الفئة",
+        "option-one": ""
+      },
+      "errors": {
+        "name": "الاسم مطلوب",
+        "description": "يرجى إضافة وصف"
+      },
+      "submit": "إضافة شكل",
+      "success": "تمت إضافة الشكل بنجاح"
+    }
+  },
+  "bundle-group": {
+    "BreadCrump": "مجموعة الحزم",
+    "add-bundle-btn": "إضافة حزمة",
+    "table": {
+      "id": "الرقم التعريفي",
+      "bundle-serial": "رقم تسلسلي للحزمة",
+      "source-item": "الصنف المصدر (رمز المنتج)",
+      "creator": "المنشئ",
+      "action": "الإجراءات"
+    },
+    "form": {
+      "I1": {
+        "label": "رقم تسلسلي للحزمة",
+        "placeholder": "أدخل رقم تسلسلي للحزمة"
+      },
+      "I2": {
+        "label": "رقم تعريف الصنف المصدر",
+        "placeholder": "أدخل رقم تعريف الصنف المصدر"
+      },
+      "errors": {
+        "bundle-serial": "رقم تسلسلي للحزمة مطلوب",
+        "bundle-serial-exist": "حزمة بهذا الرقم التسلسلي موجودة بالفعل"
+      },
+      "submit": "إضافة حزمة",
+      "success": "تم إضافة الحزمة بنجاح"
+    }
+  },
+  "unit-of-measurement": {
+    "BreadCrump": "وحدة القياس",
+    "add-unit-btn": "إضافة وحدة",
+    "edit-unit": "تعديل وحدة",
+    "table": {
+      "id": "الرقم التعريفي",
+      "unit-of-measurement": "الوحدة",
+      "divided-to": "مقسوم على",
+      "unit-parent": "الوحدة الرئيسية",
+      "action": "الإجراءات"
+    },
+    "form": {
+      "I1": {
+        "label": "وحدة القياس",
+        "placeholder": "أدخل وحدة القياس"
+      },
+      "I2": {
+        "label": "مقسوم على",
+        "placeholder": "أدخل مقسوم على"
+      },
+      "I3": {
+        "label": "الوحدة الرئيسية",
+        "placeholder": "أدخل الوحدة الرئيسية"
+      },
+      "errors": {
+        "uom": "يرجى إضافة وحدة",
+        "divided_to": "مقسوم على مطلوب"
+      },
+      "submit": "إضافة وحدة",
+      "success": "تم إضافة الوحدة بنجاح"
+    }
+  },
+  "finish-level": {
+    "add-level-btn": "إضافة مستوى",
+    "BreadCrump": "مستوى التشطيب",
+    "table": {
+      "id": "الرقم التعريفي",
+      "finish-level": "مستوى التشطيب",
+      "details": "التفاصيل",
+      "action": "الإجراءات"
+    },
+    "form": {
+      "I1": {
+        "label": "مستوى التشطيب",
+        "placeholder": "أدخل مستوى التشطيب"
+      },
+      "I2": {
+        "label": "تفاصيل مستوى التشطيب",
+        "placeholder": "أدخل تفاصيل مستوى التشطيب"
+      },
+      "errors": {
+        "finish-level": "مستوى التشطيب مطلوب",
+        "details": "التفاصيل مطلوبة"
+      },
+      "submit": "إضافة مستوى",
+      "success": "تم إضافة المستوى بنجاح"
+    }
+  },
+  "material-origin": {
+    "BreadCrump": "منشأ المادة",
+    "add-origin-btn": "إضافة منشأ",
+    "table": {
+      "id": "الرقم التعريفي",
+      "origin_name": "اسم المنشأ",
+      "action": "الإجراءات"
+    },
+    "form": {
+      "I1": {
+        "label": "اسم المنشأ",
+        "placeholder": "أدخل اسم المنشأ"
+      },
+      "errors": {
+        "origin_name": "اسم المنشأ مطلوب"
+      },
+      "submit": "إضافة منشأ",
+      "success": "تم إضافة المنشأ بنجاح"
+    }
+  },
+  "return_form": {
+    "create": "إنشاء مرتجع",
+    "add-level-btn": "إضافة عمليات التسوية",
+    "BreadCrump": "المرتجع في العمليات",
+    "adjustment_list": "قائمة التسوية",
+    "edit": "تعديل",
+    "adjustment_details": "تفاصيل التسوية",
+    "table": {
+      "category_name": "اسم الفئة",
+      "form_lable": "نموذج التسمية",
+      "location_name": "اسم الموقع",
+      "form_date_time": "التاريخ",
+      "created_by": "تم الإنشاء بواسطة",
+      "created_at": "تم الإنشاء في",
+      "approved_at": "تمت الموافقة في",
+      "work_order_line_num": "أمر الشغل",
+      "doc_number": "رقم المستند",
+      "confirmed_at": "تم التأكيد في",
+      "status": "الحالة",
+      "actions": "الإجراءات"
+    }
+  },
+  "material-title": {
+    "BreadCrump": "عنوان المادة",
+    "add-title-btn": "إضافة عنوان",
+    "add-img-btn": "إضافة صورة جديدة",
+    "img-max-size": "(يجب أن تكون الصورة أقل من 2 ميجابايت)",
+    "table": {
+      "id": "الرقم التعريفي",
+      "material_nicknames": "ألقاب المادة",
+      "material_cat_name": "الفئة",
+      "action": "الإجراءات"
+    },
+    "form": {
+      "I1": {
+        "label": "ألقاب المادة",
+        "placeholder": "أدخل ألقاب المادة"
+      },
+      "I2": {
+        "label": "رقم تعريف الفئة",
+        "placeholder": "اختر رقم تعريف الفئة"
+      },
+      "errors": {
+        "category_id": "رقم تعريف الفئة مطلوب",
+        "material_nicknames": "الألقاب مطلوبة"
+      },
+      "submit": "إضافة العناوين",
+      "success": "تم إضافة العناوين بنجاح",
+      "view-img": "عرض الصور"
+    }
+  },
+  "items": {
+    "BreadCrump": "الأصناف",
+    "add-item-btn": "إضافة صنف",
+    "upload-btn": "تحميل صورة",
+    "actinos": {
+      "a1": "عرض تاريخ الصنف"
+    },
+    "theader": {
+      "h1": "رمز المنتج (SKU)",
+      "h2": "اسم الشكل",
+      "h3": "اسم المنشأ",
+      "h4": "اسم الحزمة",
+      "h5": "العرض",
+      "h6": "الطول",
+      "h7": "الارتفاع/السمك",
+      "h8": "الوزن",
+      "actions": "الإجراءات"
+    },
+    "table": {
+      "id": "الرقم التعريفي",
+      "material-name": "اسم المادة",
+      "material-img": "الصورة"
+    }
+  },
+  "adjustment_form": {
+    "add-level-btn": "إضافة عمليات التخزين",
+    "BreadCrump": "عمليات التخزين",
+    "add_new_item": "اضافة عناصر جديدة",
+    "adjustment_list": "عمليات الجرد",
+    "adjustment_details": "تفاصيل الجرد",
+    "table": {
+      "category_name": "اسم الفئة",
+      "form_lable": "التسمية النموذجية",
+      "location_name": "اسم الموقع",
+      "form_date_time": "التاريخ",
+      "created_by": "تم الإنشاء بواسطة",
+      "created_at": "تم الإنشاء في",
+      "work_order_line_num": "رقم أمر العمل",
+      "doc_number": "المرجع",
+      "confirmed_at": "تم التأكيد في",
+      "status": "الحالة",
+      "actions": "الإجراءات",
+      "approved_at": "تم الموافقه بواسطة"
+    },
+    "form": {
+      "lable": {
+        "lable": "التسمية النموذجية",
+        "placeholder": "أدخل اسم الفئة"
+      },
+      "I1": { "lable": "اسم الفئة", "placeholder": "أدخل اسم الفئة" },
+      "I2": { "lable": "اختر التاريخ", "placeholder": "أدخل اسم الفئة" },
+      "I3": {
+        "lable": "رقم الوثيقة",
+        "placeholder": "أدخل رقم الوثيقة"
+      },
+      "I4": { "lable": "أمر العمل", "placeholder": "أمر العمل" },
+      "errors": {
+        "category_name": "اسم الفئة مطلوب",
+        "form_date": "التاريخ مطلوب",
+        "doc_number": "رقم الوثيقة مطلوب",
+        "work_order_line_num": "أمر العمل مطلوب"
+      },
+      "button": "اضافة امر جرد جديد",
+      "sucess": "تم إضافة النموذج بنجاح",
+      "search": "بحث"
+    }
+  },
+  "operation_details": {
+    "cols": {
+      "item_batch": "دفعة العنصر",
+      "barcode": "الباركود",
+      "prod_date": "تاريخ الإنتاج",
+      "exp_date": "تاريخ انتهاء الصلاحية",
+      "finish_level": "مستوى الإنهاء",
+      "operation_quantity": "كمية العملية",
+      "quantity": "الكمية",
+      "quantity_after": "الكمية بعد",
+      "status": "الحالة",
+      "action": "الإجراءات",
+      "actual_quantity": "الكمية الفعليه"
+    },
+    "rows": {
+      "production_date": "تاريخ الإنتاج",
+      "experation_date": "تاريخ الانتهاء"
+    },
+    "header": {
+      "location": "الموقع",
+      "code": "الرمز",
+      "doc_num": "رقم الوثيقة",
+      "date_time": "التاريخ",
+      "created_at": "تم الإنشاء في",
+      "confirm": "التأكيد",
+      "not_confirmed_yet": "لم يتم التأكيد بعد",
+      "status": "الحالة",
+      "total_items": "إجمالي العناصر"
+    }
+  },
+  "adjustment_items": {
+    "table": {
+      "item_batch": "دفعة العنصر",
+      "item_quantity": "الكمية",
+      "unit_cost": "تكلفة الوحدة",
+      "total_cost": "التكلفة الإجمالية",
+      "batch_num": "رقم الدفعة",
+      "barcode": "الباركود",
+      "production_date": "تاريخ الإنتاج",
+      "finish_level": "مستوى الإنهاء",
+      "card_name": "اسم البطاقة",
+      "sku_code": "رمز المنتج",
+      "status": "الحالة"
+    }
+  },
+  "adjustment_item_form": {
+    "form": {
+      "I1": {
+        "lable": "الكمية الحالية",
+        "placeholder": "أدخل الكمية الجديدة"
+      },
+      "I2": {
+        "lable": "الكمية الجديدة",
+        "placeholder": "أدخل الكمية الجديدة"
+      },
+      "I3": {
+        "lable": "ملاحظة",
+        "placeholder": "أدخل سبب التغيير"
+      },
+      "button": "تعديل العنصر",
+      "success": "تم التعديل بنجاح",
+      "errors": {
+        "new_quantity": "أدخل الكمية الجديدة",
+        "reason_of_change": "أدخل سبب التغيير"
+      }
+    }
+  },
+
+  "create_item": {
+    "title": "إنشاء عنصر",
+    "form": {
+      "title": "إنشاء عنصر",
+      "part_one": "معلومات العنصر",
+      "part_two": "الأبعاد",
+      "part_three": "مواصفات العنصر",
+      "drop_down": {
+        "I1": {
+          "label": "اسم المادة",
+          "placeholder": "اختر اسم المادة"
+        },
+        "I2": {
+          "label": "الشكل",
+          "placeholder": "اختر الشكل"
+        },
+        "I3": {
+          "label": "المنشأ",
+          "placeholder": "اختر المنشأ"
+        },
+        "I4": {
+          "label": "الحزمة",
+          "placeholder": "اختر الحزمة"
+        },
+        "I5": {
+          "label": "التصنيف",
+          "placeholder": "اختر التصنيف"
+        },
+        "I6": {
+          "label": "اللون",
+          "placeholder": "اختر اللون"
+        }
+      },
+      "I1": { "label": "اسم العنصر", "placeholder": "أدخل اسم العنصر" },
+      "I2": {
+        "label": "رمز تعريف المنتج (SKU)",
+        "placeholder": "أدخل رمز تعريف المنتج (SKU)"
+      },
+      "I3": {
+        "label": "وحدة القياس",
+        "placeholder": "اختر وحدة القياس"
+      },
+      "I4": {
+        "label": "نوع العنصر",
+        "placeholder": "اختر نوع العنصر"
+      },
+      "dimensions": {
+        "I1": { "label": "طول العنصر", "placeholder": "أدخل طول العنصر" },
+        "I2": {
+          "label": "ارتفاع سمك العنصر",
+          "placeholder": "أدخل ارتفاع السمك"
+        },
+        "I3": { "label": "عرض العنصر", "placeholder": "أدخل عرض العنصر" },
+        "I4": { "label": "وزن العنصر", "placeholder": "أدخل وزن العنصر" }
+      },
+      "errors": {
+        "item_name": "اسم العنصر مطلوب",
+        "item_sku_code": "رمز تعريف المنتج (SKU) مطلوب",
+        "item_material_id": "معرف المادة مطلوب",
+        "shape_id": "معرف الشكل مطلوب",
+        "origin_id": "معرف المنشأ مطلوب",
+        "item_parent": "العنصر الأصل مطلوب",
+        "bundle_id": "معرف الحزمة مطلوب",
+        "length": "الطول مطلوب",
+        "width": "العرض مطلوب",
+        "thick_height": "الارتفاع مطلوب",
+        "weight": "الوزن مطلوب"
+      },
+      "submit": "إنشاء العنصر"
+    }
+  },
+  "rfq_form": {
+    "title": "طلبات عروض الأسعار",
+    "BreadCrump": "العمليات",
+    "add_new": "إضافة طلب عرض سعر جديد",
+    "edit_new": "تعديل طلب عرض سعر",
+    "operations": "عمليات طلب عرض السعر",
+    "receive_operations": "عمليات الاستلام",
+    "items": {
+      "item_name": "اسم الصنف",
+      "item_sku_code": "رمز SKU للصنف",
+      "length": "الطول",
+      "width": "العرض",
+      "thick_height": "السمك/الارتفاع",
+      "Weight": "الوزن",
+      "material": "المادة",
+      "shape": "الشكل",
+      "origin": "المنشأ",
+      "color": "اللون"
+    },
+    "form": {
+      "last_price": "سعر السوق",
+
+      "errors": {
+        "doc_number": "رقم المستند",
+        "category_name": "اسم الفئة",
+        "form_datetime": "التاريخ",
+        "work_order_line_num": "رقم سطر أمر العمل",
+        "location_to": "قسم المشتريات"
+      },
+      "location_type": "نوع الموقع",
+      "add_item": "إضافة صنف",
+      "Edit": "تعديل نموذج طلب عرض سعر",
+      "button": "إضافة نموذج طلب عرض سعر",
+      "doc_number": "رقم المستند",
+      "category_name": "اسم الفئة",
+      "form_datetime": "التاريخ",
+      "tax_value": "قيمة الضريبة",
+      "work_order_line_num": "رقم سطر أمر العمل",
+      "location_to": "قسم المشتريات",
+      "success": "تمت إضافة طلب عرض السعر بنجاح",
+      "item_price": "سعر الصنف",
+      "discount_price": "سعر الخصم",
+      "select_vendor": "اختر موردًا",
+      "created_at": "تاريخ الإنشاء",
+      "payment_type": "نوع الدفع",
+      "payment_method": "طريقة الدفع"
+    }
+  },
+  "release_form": {
+    "BreadCrump": "عمليات الصرف",
+    "add_new_item": "اضافة عناصر جديدة",
+    "release_list": "عمليات الصرف",
+    "release_details": "تفاصيل الصرف",
+    "table": {
+      "category_name": "اسم الفئة",
+      "form_lable": "تسمية النموذج",
+      "source_location": "الموقع المصدر",
+      "destination_location": "الموقع الوجهة",
+      "form_date_time": "تاريخ النموذج",
+      "created_by": "تم الإنشاء بواسطة",
+      "work_order_line_num": "أمر العمل",
+      "doc_number": "رقم المستند المرجعي",
+      "created_at": "تاريخ الإنشاء",
+      "confirmed_at": "تاريخ التأكيد",
+      "status": "الحالة",
+      "actions": "الإجراءات"
+    },
+    "form": {
+      "lable": { "lable": "تسمية النموذج" },
+      "I1": { "lable": "اسم الفئة", "placeholder": "أدخل اسم الفئة" },
+      "I2": { "lable": "اسم الموقع", "placeholder": "اختر الموقع" },
+      "I3": { "lable": "اختر التاريخ", "placeholder": "أدخل اسم الفئة" },
+      "I4": {
+        "lable": "رقم المستند المرجعي",
+        "placeholder": "أدخل رقم المستند المرجعي"
+      },
+      "I5": { "lable": "أمر العمل", "placeholder": "أدخل أمر العمل" },
+      "errors": {
+        "category_name": "اسم الفئة مطلوب",
+        "to_location": "الموقع مطلوب",
+        "form_datetime": "التاريخ مطلوب",
+        "doc_number": "رقم المستند مطلوب",
+        "work_order_line_num": "أمر العمل مطلوب",
+        "source_form_id": "أمر العمل مطلوب"
+      },
+      "button": "إضافة أمر إصدار جديد",
+      "sucess": "تمت إضافة النموذج بنجاح",
+      "search": "بحث"
+    }
+  },
+  "receive_form": {
+    "BreadCrump": "عمليات الاستلام",
+    "table": {
+      "form_lable": "تسمية النموذج",
+      "source_location": "من الموقع",
+      "destination_location": "إلى الموقع",
+      "form_date_time": "التاريخ",
+      "created_by": "تم الإنشاء بواسطة",
+      "work_order_line_num": "أمر العمل",
+      "doc_number": "رقم المستند المرجعي",
+      "created_at": "تاريخ الإنشاء",
+      "confirmed_at": "تاريخ التأكيد",
+      "status": "الحالة",
+      "actions": "الإجراءات",
+      "details": "التفاصيل"
+    },
+    "form": {
+      "I1": { "lable": "اسم الفئة", "placeholder": "أدخل اسم الفئة" },
+      "I2": { "lable": "اسم الموقع", "placeholder": "اختر الموقع" },
+      "I3": { "lable": "اختر التاريخ", "placeholder": "أدخل اسم الفئة" },
+      "I4": {
+        "lable": "رقم المستند المرجعي",
+        "placeholder": "أدخل رقم المستند المرجعي"
+      },
+      "I5": { "lable": "أمر العمل", "placeholder": "أدخل أمر العمل" },
+      "errors": {
+        "category_name": "اسم الفئة مطلوب",
+        "to_location": "الموقع مطلوب",
+        "form_datetime": "التاريخ مطلوب",
+        "doc_number": "رقم المستند مطلوب",
+        "work_order_line_num": "أمر العمل مطلوب",
+        "source_form_id": "أمر العمل مطلوب"
+      },
+      "button": "إضافة بيانات النموذج",
+      "sucess": "تمت إضافة النموذج بنجاح",
+      "search": "بحث"
+    }
+  },
+  "add_items_to_form": {
+    "page_lable": "العناصر",
+    "btn_lable": "عدد العناصر المحددة",
+    "BreadCrump": {
+      "release": {
+        "curr_page": "إضافة عناصر إلى الصرف"
+      },
+      "adjustment": {
+        "curr_page": "إضافة عناصر إلى الجرد"
+      },
+      "RFQ": {
+        "curr_page": "إضافة عناصر إلى طلبات التسعير"
+      }
+    },
+    "release": {
+      "btn": "اضافة الي امر الصرف"
+    },
+    "adjustment": {
+      "btn": "اضافة الي امر الجرد"
+    },
+    "filter": {
+      "finishing_level": "مستوى التشطيب",
+      "categories": "التصنيفات",
+      "item_cards": "بطاقات الأصناف",
+      "item_sku_codes": "رمز تعريف المنتج (SKU)",
+      "shapes": "الأشكال",
+      "bundle_groups": "مجموعات الحزم",
+      "origins": "المناشئ",
+      "colors": "الألوان",
+      "material_titles": "عناوين المواد",
+      "vendor": "المورد",
+      "category": "التصنيف",
+      "payment_type": "نوع الدفع",
+      "payment_method": "طريقة الدفع",
+      "bill_type": "نوع الفاتورة"
+    }
+  },
+  "show-room": {
+    "search_placeholder": "البحث بالاسم أو الاسم المستعار أو رقم المبنى"
+  }
+}

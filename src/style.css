@@ -1,0 +1,201 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* --------------------------- */
+/* btn-primary */
+@layer components {
+  table {
+    @apply w-full text-sm;
+  }
+  .second-thead {
+    @apply uppercase color-second text-color-v-dark dark:bg-gray-700 dark:text-gray-400;
+  }
+  .main-thead {
+    @apply uppercase text-white text-xs color-primary font-semibold dark:bg-gray-700 dark:text-gray-400;
+  }
+
+  thead th {
+    @apply text-start px-6 py-3 text-xs font-medium uppercase tracking-wider hidden sm:table-cell;
+  }
+
+  tbody {
+    @apply bg-white text-color-dark;
+  }
+  tbody tr {
+    @apply h-14 divide;
+  }
+  tbody td {
+    @apply px-4 whitespace-nowrap text-sm font-medium;
+  }
+  .hover-tr {
+    @apply hover:color-lite dark:hover:bg-violet-600;
+  }
+
+  .btn {
+    @apply inline-flex mx-1 px-3 py-1 border border-color text-sm text-center  rounded-md items-center text-white font-semibold;
+  }
+
+  .btn-primary {
+    @apply bg-violet-400 hover:bg-violet-500  disabled:cursor-not-allowed;
+  }
+
+  .color-dark {
+    @apply bg-violet-500;
+  }
+  .color-primary {
+    @apply bg-violet-400;
+  }
+  .color-second {
+    @apply bg-violet-200;
+  }
+  .color-light {
+    @apply bg-violet-100;
+  }
+  .color-lite {
+    @apply bg-violet-50;
+  }
+
+  .border-color {
+    @apply border-violet-200;
+  }
+  .border-color-primary {
+    @apply border-violet-400;
+  }
+  .divide {
+    @apply divide-y divide-violet-200;
+  }
+
+  .text-color-v-dark {
+    @apply text-gray-900;
+  }
+  .text-color-dark {
+    @apply text-gray-700;
+  }
+  .text-color-light {
+    @apply text-violet-600;
+  }
+  .text-color-lite {
+    @apply text-violet-500;
+  }
+  .text-color-primary {
+    @apply text-violet-400;
+  }
+  .text-color-soft {
+    @apply text-violet-500;
+  }
+
+  .rounded-span {
+    @apply inline-flex items-center p-3 text-sm text-color-v-dark color-light border border-e-0 border-color rounded-s-md dark:bg-gray-600 dark:text-gray-400 dark:border-gray-600;
+  }
+
+  .rounded-span label {
+    @apply text-color-lite dark:text-gray-400;
+  }
+
+  .rounded-output {
+    @apply rounded-none rounded-e-md bg-violet-50 border border-color text-color-v-dark focus:ring-blue-500 p-3
+                  focus:border-blue-500 block flex-1 min-w-0 w-full text-sm dark:bg-gray-700 dark:border-gray-600 
+                  dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500;
+  }
+
+  .rounded-input {
+    @apply rounded-none rounded-e-md bg-white border border-color text-color-v-dark focus:ring-blue-500 p-2
+                  focus:border-blue-500 block flex-1 min-w-0 w-full text-sm;
+  }
+
+  .just-rounded-border {
+    @apply relative rounded-lg  border-collapse border border-color m-2;
+  }
+  .rounded-border {
+    @apply overflow-x-auto just-rounded-border;
+  }
+
+  .rounded-grid {
+    @apply rounded-border grid grid-cols-4 justify-normal items-center mx-4 p-2;
+  }
+
+  .flex-center {
+    @apply flex items-center justify-between px-3 py-2 border-t border-gray-200 sm:px-6;
+  }
+
+  .blue_badge {
+    @apply bg-blue-100 text-blue-800 text-xs font-medium m-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400;
+  }
+  .gray_badge {
+    @apply bg-gray-100 text-gray-800 text-xs font-medium m-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-gray-400 border border-gray-500;
+  }
+  .red_badge {
+    @apply bg-red-100 text-red-800 text-xs font-medium m-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-red-400 border border-red-400;
+  }
+  .green_badge {
+    @apply bg-green-100 text-green-800 text-xs font-medium m-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-green-400 border border-green-400;
+  }
+  .yellow_badge {
+    @apply bg-yellow-100 text-yellow-800 text-xs font-medium m-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-yellow-300 border border-yellow-300;
+  }
+  .indigo_badge {
+    @apply bg-indigo-100 text-indigo-800 text-xs font-medium m-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-indigo-400 border border-indigo-400;
+  }
+  .purple_badge {
+    @apply bg-purple-100 text-purple-800 text-xs font-medium m-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-purple-400 border border-purple-400;
+  }
+  .pink_badge {
+    @apply bg-pink-100 text-pink-800 text-xs font-medium m-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-pink-400 border border-pink-400;
+  }
+
+  /* form*/
+  .form_btn {
+    @apply color-dark  text-center w-full py-2 rounded text-white my-6;
+  }
+}
+.sign-place {
+  display: none;
+}
+
+@media print {
+  /* Table styles for printing */
+  #table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  #table th,
+  #table td {
+    border: 1px solid #ddd !important;
+    padding: 8px !important;
+    text-align: left !important;
+  }
+  .sign-place {
+    display: flex;
+  }
+  /* Additional print-specific styles as needed */
+}
+
+
+/* .hover-tr:has(.fa-unlock){
+  opacity: .4;
+  cursor: not-allowed;
+  user-select: none;
+} */
+
+.old_price{
+  position: relative;
+  color: red;
+}
+.old_price::before{
+  content: '';
+  position: absolute;
+  width: 30px;
+  height: 1px ;
+  background-color: red;
+  left: -5px;
+  top: 50%;
+  transform: rotate(45deg);
+}
+.aprove-button{
+  display: none;
+}
+.rounded-border:has(.old_price) .aprove-button{
+  display: block;
+
+}

@@ -1,0 +1,60 @@
+{
+  "FIELD": {
+    "FORM LABEL": "Form Label",
+    "CATEGORY NAME": "Category Name",
+    "DATE": "Date",
+    "WORK ORDER": "Work Order",
+    "DOC NUM": "Doc Number",
+    "TO": "To",
+    "FROM": "From",
+    "LOCATION": "Location",
+
+    "Username": "name",
+
+    "Vendor" : "Vendor",
+    "Category" : "Category",
+    "payment_type" : "Payment Type",
+    "payment_method" : "Payment Method",
+    "bill_type" : "Bill Type",
+    "search_by_name" : "Name",
+    "created_from" : "Created From",
+    "created_to" : "Created To",
+    "maturity_from" : "Maturity From",
+    "maturity_to" : "Maturity To",
+    "cashing_from" : "Cashing From",
+    "cashing_to" : "Cashing To",
+    "bank_account" : "Bank Account",
+    "cheque_number" : "Cheque Number",
+    "cheques_status" : "Status",
+    "name" : "Name",
+    "tax_card" : "Tax Card",
+    "commercial_record" : "Commercial Record"  
+  },
+  "PLACEHOLDER": {
+    "FORM LABEL": "Enter Form Label",
+    "LOCATION": "Select Location",
+
+    "CATEGORY NAME": "Category Name",
+    "DATE": "Date",
+    "WORK ORDER": "Work Order",
+    "DOC NUM": "Doc Number",
+    "TO": "To",
+    "FROM": "From",
+
+    "Username": "name",
+
+    "Vendor" : "Choose Vendor",
+     "Category" : "Choose Category",
+     "payment_type" : "Choose Payment Type",
+     "payment_method" : "Choose Payment Method",
+     "bill_type" : "Choose Bill Type",
+     "search_by_name" : "Search by name",
+     "bank_account" : "Choose Bank Account",
+     "cheque_number" : "Choose Cheque Number",
+     "cheques_status" : "Choose Status",
+     "name" : "Search With Name",
+     "tax_card" : "Search By Tax Card",
+     "commercial_record" : "Search By Commercial Record"
+
+  }
+}

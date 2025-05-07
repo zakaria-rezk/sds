@@ -1,0 +1,1293 @@
+{
+  "lang": "english",
+  "Hello": "Hello",
+  "add": "Add",
+  "reset": "Reset",
+  "save": "Save",
+  "accept": "Accept",
+  "Logout": "Logout",
+  "language": "Language",
+  "thanks": "Thank you",
+  "english": "English",
+  "arabic": "Arabic",
+  "open": "Open",
+  "inbox":"Inbox",
+  "next":"Next",
+  "previous": "Previous",
+  "create_return": "Create Return",
+  "global_error": "Something went wrong",
+  "delete": "delete",
+  "close": "Close",
+  "confirm": "Confirm",
+  "reopen": "Re-Open",
+  "PQ_open": "PQ Open",
+  "PQ_confirmed": "PQ Confirmed",
+  "view_items": "View Items",
+  "Working On It": "Working On It",
+  "Send To PQ": "Send To PQ",
+  "Received From PQ": "Received From PQ",
+  "Show All": "Show All",
+  "Requested Quantity": "Requested Quantity",
+  "Enter Requested Quantity": "Enter Requested Quantity",
+  "Current Quantity": "Current Quantity",
+  "Item": "Item Name",
+  "Sku Code": "Sku Code",
+  "Quantity": "Quantity",
+  "Actions": "Actions",
+  "Form Label": "Form Label",
+  "date": "Date",
+  "created_at": "Created",
+  "New Orders": "New Orders",
+  "Quoted By": "Quoted By",
+  "Billed": "Billed",
+  "PQ Operations": "PQ Operations",
+  "At": "At",
+  "By": "By",
+  "Add Items": "Add Items",
+  "Create Items": "Create Item",
+  "Description": "Description",
+  "Form Code": "Form Code",
+  "Total Price": "Total Price",
+  "Add New Custody": "Add New Custody",
+  "Type": "Type",
+  "Amount": "Amount",
+  "Add Amount": "Add Amount",
+  "Custody Type": "Custody Type",
+  "permanent": "permanent",
+  "settlement": "settlement",
+  "temporary": "temporary",
+  "Add Description": "Add Description",
+  "Custody Added Successfully": "Custody Added Successfully",
+  "Payment History": "Payment History",
+  "Bills": "Bills",
+  "BILL-Details": "BILL-Details",
+  "Item Discount": "Item Discount",
+  "Total paid": "Total paid",
+  "confirmed_price": "Confirmed Price",
+  "buyer": "Buyer",
+  "total_paid_amount": "Total Paid Amount",
+  "Location From": "Location From",
+  "location to": "Location To",
+  "payment_type": "Payment Type",
+  "payment_method": "Payment Method",
+  "editBill": "Edit Bill",
+  "Custody Recipient": "Custody Recipient",
+  "Color": "Color",
+  "Create Custody": "Create Custody",
+  "Start Qoutation": "Start Qoutation",
+  "Select Vendor": "Select Vendor",
+  "Print Table": "Print Table",
+  "Generate PDF": "Generate PDF",
+  "Custodys": "Custodys",
+  "Receives": "Receives",
+  "Uplaod Files": "Uplaod Files",
+  "Save Files": "Save Files",
+  "New File": "New File",
+  "description": "description",
+  "Name": "Name",
+  "File": "File",
+  "Size": "Size",
+  "Generate Bill": "Generate Bill",
+  "Vendor": "Vendor",
+  "Status": "Status",
+  "Quoted": "Quoted",
+  "Approved": "Approved",
+  "Receipt": "Receipt",
+  "Choose Bill Type": "Edit Bill",
+  "Create Settlement": "Create Settlement",
+  "Invoice": "Invoice",
+  "Tax Invoice": "Tax Invoice",
+  "Bill Type": "Bill Type",
+  "Edit Bill Type": "Edit Bill Type",
+  "Tax Value": "Tax Value",
+  "Add Batch": "Add Batch",
+  "Select Batch": "Select Batch",
+  "Expiration Date": "Expiration Date",
+  "Choose Batch": "Choose Batch",
+  "Add New Batch": "Add New Batch",
+  "Add Item Batch": "Add Item Batch",
+  "Num": "Num",
+  "PQs": "PQs",
+  "Add Custody": "Add Custody",
+  "Custodys Operations": "Custodys Operations",
+  "Custody User": "Custody User",
+  "Bill Details Operations": "Bill Details Operations",
+  "Add Card": "Edit Item",
+  "Select Card": "Select Card",
+  "Choose Card": "Choose Card",
+  "Add New Card": "Add New Card",
+  "No Custodies Found": "No Custodies Found",
+  "No Receives Found": "No Receives Found",
+  "No Files Uploaded Yet": "No Files Uploaded Yet",
+  "recipient_name": "Recipient Name",
+  "bank_name": "Bank Name",
+  "bank_account": "Bank Account",
+  "cheque_number": "Cheque Number",
+  "check_created_at": "Created At",
+  "maturity_date": "Maturity Date",
+  "cashing_date": "Cashing Date",
+  "Add Cheque": "Add Cheque",
+  "Remaining Amount": "Remaining Amount",
+  "un_paid_bills": "UnPaid Bills",
+  "side-bar": {
+    "dashboard": "Dashboard",
+    "inbox": "Inbox",
+    "import_receive": "Import Receive",
+    "operations": "Operatinos",
+    "vendors": "Suppliers",
+    "create_self_service": "Create Self Service",
+    "print_screen": "Print Screen",
+    "show_room": "Show Room"
+  },
+  "countries": {
+    "egypt": "Egypt",
+    "united_arab_emirates": "United Arab Emirates",
+    "turkey": "Turkey"
+  },
+  "status": {
+    "open": "Open",
+    "close": "Closed",
+    "confirm": "Confirmed",
+    "already_added": "Already Added",
+    "Waiting For Receive": "Waiting For Receive"
+  },
+  "form_titles": {
+    "adjustment": {
+      "add": "Stocktaking",
+      "edit": "Edit Stocktaking"
+    },
+    "release": {
+      "add": "Release",
+      "edit": "Edit Release"
+    }
+  },
+  "toast": {
+    "items_added": "Item Added Successfully",
+    "items-added-error": "Error While Adding Items",
+    "un_suffecint_quantity": "Un Suffecint Quantity",
+    "timeout_error": "No internet connection , Make sure your device connected to the internet"
+  },
+  "search": "Search",
+  "loading-btn": "Loading",
+  "login": {
+    "side-bar": {
+      "head": "Welcome Back!",
+      "sub-head": "Welcome to Elalfy ERP System. Please log in to continue."
+    },
+    "form": {
+      "system-login": "System Login",
+      "no-account": "Don’t have an account?",
+      "new-account": "Create Your account",
+      "user-name": "User name",
+      "password": "Password",
+      "remember-me": "Remember Me",
+      "forget-password": "Forgot Password?",
+      "submit": "login",
+      "errors": {
+        "required-email": "email is required",
+        "required-pass": "password is required",
+        "invild-credentials": "Invalid credentials"
+      }
+    }
+  },
+  "auth": {
+    "login": "Login",
+    "back": "Back",
+    "title": "Account Signup",
+    "description": "Become a member and enjoy exclusive promotions.",
+    "labels": {
+      "name": "Full Name",
+      "name_length": "Name has to be at least 4 letters",
+      "mobile": "Mobile Number",
+      "email": "Your Email",
+      "password_confirmation": "Password Confirmation",
+      "password": "Password",
+      "remember": "Remember me",
+      "terms_conditions": "You've to approve on Terms and Condition"
+    }
+  },
+  "otp": {
+    "title": "Verify Mobile Number",
+    "sub-title": "Enter the code sent to your mobile number.",
+    "btn": "Account Verification",
+    "no-code": "Didn’t receive the code?",
+    "new-code": "Resend the code"
+  },
+  "welcome": {
+    "title": "Welcome back to",
+    "routes": {
+      "settings": "Settings",
+      "item_settings": "Item Settings"
+    }
+  },
+  "setting": {
+    "r1": {
+      "text": "Operations"
+    },
+    "r2": {
+      "text": "Locations"
+    },
+    "r3": {
+      "text": "Users"
+    }
+  },
+
+  "dashboard": {
+    "locationDashboard": "Location Dashboard"
+  },
+  "table": {
+    "item_batch": "Item Batch",
+    "barcode": "Barcode",
+    "date": "Date",
+    "finish_level": "Finshing Level",
+    "material_name": "Materail Name",
+    "item_name": "Item Name",
+    "specifications": "Specifications",
+    "shape_name": "shape Name",
+    "operation_type": "Source Operation Type",
+    "source_operation_type": "Operation Type",
+    "source_operation": "Source Operation",
+    "sku_code": "sku code",
+    "operation_quantity": "Operation Quantity",
+    "quantity": "Quantity",
+    "category_name": "Category Name",
+    "origin_name": "Origin Name",
+    "quantity_after": "Quantity After",
+    "actual_quantity": "Actual Quantity",
+    "action": "Actions",
+    "item_quantity": "quantity",
+    "unit_cost": "Unit Cost",
+    "uom": "Unit of Measurement",
+    "total_cost": "Total Cost",
+    "batch_num": "batch number",
+    "production_date": "Prod. Date",
+    "card_name": "Item Name",
+    "Sku Code": "Sku Code",
+    "form_lable": "Form Lable",
+    "source_location": "Source Location",
+    "destination_location": "Destination",
+    "form_date_time": "Form Date",
+    "created_by": "created by",
+    "work_order_line_num": "Work Order",
+    "doc_number": "Doc. Num",
+    "created_at": "created at",
+    "confirmed_at": "confirmed at",
+    "status": "status",
+    "actions": "Actions"
+  },
+  "operations": {
+    "BreadCrump": "Operations",
+    "add-operation-btn": "Add Operations",
+    "edit_operation": "Edit Operation",
+    "operation-type-options": {
+      "option-1": {
+        "text": "Receive"
+      },
+      "option-2": {
+        "text": "Release"
+      },
+      "option-3": {
+        "text": "Receive Return"
+      },
+      "option-4": {
+        "text": "Release Return"
+      },
+      "option-5": {
+        "text": "Request For Quotation"
+      },
+      "option-6": {
+        "text": "Adjusmentment"
+      },
+      "option-7": {
+        "text": "Quotation"
+      },
+      "option-8": {
+        "text": "Request For Quotation"
+      },
+      "option-9": {
+        "text": "Custody"
+      }
+    },
+    "table": {
+      "form_name": "Operations",
+      "id": "ID",
+      "operation-name_en": "Operation Name By En",
+      "operation-name_ar": "Operation Name By Ar",
+      "operation-type": "Operation Type",
+      "reference-document-type": "Reference Document Type",
+      "action": "Action"
+    },
+    "form": {
+      "I1": {
+        "label": "Operation Name En",
+        "placeholder": "Enter Operation Name"
+      },
+      "I2": {
+        "label": "Operation Name AR",
+        "placeholder": "Enter Operation Name By Arabic "
+      },
+      "I3": {
+        "label": "Operation Type",
+        "placeholder": "Enter Operation Type"
+      },
+      "I4": {
+        "label": "Operation Parent",
+        "placeholder": "Enter Operation Parent",
+        "option-one": ""
+      },
+      "I5": {
+        "label": "Ref. Doc.",
+        "placeholder": "Enter Ref. Doc."
+      },
+      "errors": {
+        "name": "Operatino Name is Required",
+        "type": "Operatino Type is Required",
+        "parent": " ",
+        "reference": "Reference Doucment Type"
+      },
+
+      "submit": "Add Operation",
+      "success": "Operation Added successfully"
+    }
+  },
+  "locations": {
+    "BreadCrump": "Locations",
+    "add-location-btn": "Add Location",
+    "edit_location": "Edit Location",
+    "operation-type-options": {
+      "option-1": {
+        "text": "IN"
+      },
+      "option-2": {
+        "text": "OUT"
+      },
+      "option-3": {
+        "text": "RETURN_IN"
+      },
+      "option-4": {
+        "text": "RETURN_OUT"
+      },
+      "option-5": {
+        "text": "RFQ"
+      },
+      "option-6": {
+        "text": "GRD"
+      }
+    },
+    "table": {
+      "form_name": "Locations",
+      "id": "ID",
+      "location-name": "Location Name",
+      "short-name": "Short Name",
+      "location-type": "Location Type",
+      "action": "Action",
+      "Country": "Country",
+      "zone": "Zone",
+      "view_operations": "View Operations",
+      "errors": {
+        "name": "Location Name is Required",
+        "short_name": "Short Name Type is Required",
+        "location_type": "Location Type is Required",
+        "country": "Country is Required",
+        "zone_name": "Zone Name is Required",
+        "short_name_exist": "Short Name Must be Unique"
+      }
+    },
+    "form": {
+      "I1": {
+        "label": "Location Name",
+        "placeholder": "Enter Location Name"
+      },
+      "I2": {
+        "label": "Short Name",
+        "placeholder": "Enter Short Name"
+      },
+      "I3": {
+        "label": "Location Type",
+        "placeholder": "Enter Location Type",
+        "option-one": ""
+      },
+      "I4": {
+        "label": "country",
+        "placeholder": "Chose Your Country"
+      },
+      "I5": {
+        "label": "Time Zone",
+        "placeholder": "Chose Your Time Zone"
+      },
+      "submit": "Add Location",
+      "success": "Location Added Successfully"
+    }
+  },
+  "adjustment_content": {
+    "title": "adjustment Operation",
+    "description": "Manage stock items and monitor inventory levels.",
+    "actionText": "Add New adjustment order",
+    "buttonText": "Create Items",
+    "view_operations": "View Operations"
+  },
+  "users": {
+    "add-operation-btn": "Add User",
+    "BreadCrump": "Users",
+    "user-profile-btn": "View Profile",
+    "all-users-btn": "All users",
+    "table": {
+      "id": "ID",
+      "name": "Name",
+      "email": "Email",
+      "actions": "Action",
+      "toggle(active)": "Active/Unactive",
+      "table_label": "Users",
+      "form_name": "Users",
+      "action": {
+        "a1": "User Status",
+        "a2": "View Profile"
+      }
+    },
+
+    "form": {
+      "I1": {
+        "label": "Name",
+        "placeholder": "Enter User Name"
+      },
+      "I2": {
+        "label": "Email",
+        "placeholder": "Enter User Email"
+      },
+      "I3": {
+        "label": "Password",
+        "placeholder": "Enter Password",
+        "option-one": ""
+      },
+      "I4": {
+        "label": "Confirm Password",
+        "placeholder": "Confirm Password"
+      },
+      "I5": {
+        "label": "Select Locations (optional)"
+      },
+      "errors": {
+        "name": "Name is Required",
+        "email": "Email is Required",
+        "password": "Password is Required",
+        "password_confirmation": "Confirm Password is Required",
+        "passwords_must_match": "Passwords must match",
+        "email-exists": "Email already exists",
+        "weak_password": "Password must contain at least one letter, one number, and be longer than 8 characters."
+      },
+      "submit": "Add User",
+      "success": "User Added Successfully"
+    }
+  },
+  "user_profile": {
+    "action_btn": "Add to location",
+    "no-locations": "No locations founded ",
+    "add-btn": "Add",
+    "table": {
+      "name": "Location Name",
+      "role": "User Role",
+      "actions": "Action",
+
+      "errors": {
+        "name": "Name is Required",
+        "email": "Email is Required",
+        "password": "Password is Required",
+        "password_confirmation": "Confirm Password is Required",
+        "passwords_must_match": "Passwords must match"
+      },
+      "action": {
+        "a1": "View Profile"
+      }
+    }
+  },
+  "items-setting": {
+    "r1": {
+      "text": "Materials Shape"
+    },
+    "r2": {
+      "text": "Unit Of Measurement"
+    },
+    "r3": {
+      "text": "Finshing Level"
+    },
+    "r4": {
+      "text": "Materials Origin"
+    },
+    "r5": {
+      "text": "Item Batch"
+    },
+    "r6": {
+      "text": "Materials Title"
+    },
+    "r7": {
+      "text": "Categories"
+    },
+    "r8": {
+      "text": "Bundle Group"
+    }
+  },
+  "categories": {
+    "BreadCrump": "Categories",
+    "add-operation-btn": "Add Category",
+    "edit_category": "Edit Category",
+    "table": {
+      "id": "ID",
+      "cat_name": "Category Name",
+      "cat_parent": "Parent Category",
+      "shapes": "Shapes",
+      "titles": "Titles",
+      "is-singal-value": "Single Value",
+      "no_parent": "No Parent",
+      "no_shapes": "No Shapes",
+      "no_titles": "No titles",
+      "status": "Status",
+      "actions": "Actions",
+      "add_shape_btn": "Add Shape"
+    },
+    "form": {
+      "I1": {
+        "label": "Category Name",
+        "placeholder": "Enter Category Name"
+      },
+      "I2": {
+        "label": "Parent Category",
+        "placeholder": "Enter Parent Category"
+      },
+      "I3": {
+        "label": "Single Value",
+        "placeholder": "Single Value",
+        "option-one": ""
+      },
+      "I4": {
+        "label": "Status",
+        "placeholder": "Choose your status"
+      },
+      "I5": {
+        "label": "Zone",
+        "placeholder": "Enter your zone"
+      },
+      "options": {
+        "o1": "Open",
+        "o2": "Closed"
+      },
+      "submit": "Add Category",
+      "success": "Category Added Successfully",
+      "errors": {
+        "name": "Category Name is Required",
+        "parent": "Parent Category is Required",
+        "single_value": "Single Value is Required",
+        "status": "Status is Required",
+        "shape_name": "Shape is Required"
+      }
+    }
+  },
+  "material-shape": {
+    "BreadCrump": "Material Shape",
+    "add-operation-btn": "Add Shape",
+    "edit-operation": "Edit Shape",
+    "table": {
+      "id": "ID",
+      "shape-name": "Shape Name",
+      "cat-id": "Shape Parent",
+      "desc": "Description",
+      "category": "Category",
+      "action": "Actions"
+    },
+    "form": {
+      "I1": {
+        "label": "Shape Name",
+        "placeholder": "Enter Shape Name"
+      },
+      "I2": {
+        "label": "Shape Description",
+        "placeholder": "Enter Shape Description"
+      },
+      "I3": {
+        "label": "Category ID",
+        "placeholder": "Category ID",
+        "option-one": ""
+      },
+      "errors": {
+        "name": "Name is Required",
+        "description": "Pleasa add a description"
+      },
+      "submit": "Add Shape",
+      "success": "Shape Added Successfully"
+    }
+  },
+  "bundle-group": {
+    "BreadCrump": "Bundle Group",
+    "add-bundle-btn": "Add Bundle",
+    "edit-bundle": "Edit Bundle",
+    "table": {
+      "id": "ID",
+      "bundle-serial": "Bundle Serial",
+      "source-item": "Source Item (sku code)",
+      "creator": "Creator",
+      "action": "Actions"
+    },
+    "form": {
+      "I1": {
+        "label": "Bundle Serial",
+        "placeholder": "Enter Bundle Serial"
+      },
+      "I2": {
+        "label": "Source Item ID",
+        "placeholder": "Enter Bundle Parent"
+      },
+
+      "errors": {
+        "bundle-serial": "Bundle Serial Is Required",
+        "bundle-serial-exist": "Bundle With This Serial Already Exist"
+      },
+      "submit": "Add Bundle",
+      "success": "Bundle Added Successfully"
+    }
+  },
+
+  "unit-of-measurement": {
+    "BreadCrump": "Unit Of Measurement",
+    "add-unit-btn": "Add Unit",
+    "edit-unit": "Edit Unit",
+    "table": {
+      "id": "ID",
+      "unit-of-measurement": "Unit",
+      "divided-to": "Divided To",
+      "unit-parent": "Unit Parent",
+      "action": "Actions"
+    },
+    "form": {
+      "I1": {
+        "label": "Unit of Measurement",
+        "placeholder": "Enter Unit of Measurement"
+      },
+      "I2": {
+        "label": "Divided To",
+        "placeholder": "Enter Divided To"
+      },
+      "I3": {
+        "label": "Unit Parent",
+        "placeholder": "Enter Unit Parent"
+      },
+
+      "errors": {
+        "uom": "Please Add unit",
+        "divided_to": "Divide To Is Required"
+      },
+      "submit": "Add Unit",
+      "success": "Unit Added Successfully"
+    }
+  },
+  "finish-level": {
+    "add-level-btn": "Add Level",
+    "edit-level": "Edit Level",
+    "BreadCrump": "Finish Level",
+    "table": {
+      "id": "ID",
+      "finish-level": "Finish Level",
+      "details": "Details",
+      "action": "Actions"
+    },
+    "form": {
+      "I1": {
+        "label": "Finish Level",
+        "placeholder": "Enter Finish Level"
+      },
+      "I2": {
+        "label": "Details To",
+        "placeholder": "Enter Finish Level Details"
+      },
+
+      "errors": {
+        "finish-level": "Finish Level  iS Required",
+        "details": "Details Are Required"
+      },
+      "submit": "Add Level",
+      "success": "Level Added Successfully"
+    }
+  },
+  "material-origin": {
+    "BreadCrump": "Material Origin",
+    "add-origin-btn": "Add Origin",
+    "edit-origin": "Edit Origin",
+    "table": {
+      "id": "ID",
+      "origin_name": "Origin Name",
+      "action": "Actions"
+    },
+    "form": {
+      "I1": {
+        "label": "Origin Name",
+        "placeholder": "Enter Origin Name"
+      },
+
+      "errors": {
+        "origin_name": "Finish Level  iS Required"
+      },
+      "submit": "Add Origin",
+      "success": "Origin Added Successfully"
+    }
+  },
+  "material-title": {
+    "BreadCrump": "Material Titles",
+    "add-title-btn": "Add Title",
+    "add-img-btn": "Add new Image",
+    "img-max-size": "(Image must be less  than 2MB)",
+    "table": {
+      "id": "ID",
+      "material_nicknames": "Material NickNames",
+      "material_cat_name": "Category",
+      "action": "Actions"
+    },
+    "form": {
+      "I1": {
+        "label": "Material Nicknames",
+        "placeholder": "Enter Material Nicknames"
+      },
+      "I2": {
+        "label": "Category ID",
+        "placeholder": "Chose Cateogry Id"
+      },
+      "errors": {
+        "category_id": "Category ID is required",
+        "material_nicknames": "Nicknames are required"
+      },
+      "submit": "Add Titles",
+      "success": "Titles Added Successfully",
+      "view-img": "View Images"
+    }
+  },
+  "items": {
+    "BreadCrump": "Items",
+    "add-item-btn": "Add Item",
+    "upload-btn": "Upload Image",
+    "actinos": {
+      "a1": "View Item History"
+    },
+    "theader": {
+      "h1": "Sku(code)",
+      "h2": "Shape Name",
+      "h3": "Origin Name",
+      "h4": "Bundel Name",
+      "h5": "Width",
+      "h6": "Length",
+      "h7": "Thick Height",
+      "h8": "Weight",
+      "status": "Status",
+      "actions": "Actions"
+    },
+    "table": {
+      "id": "ID",
+      "material-name": "Material Name",
+      "material-img": "Image"
+    }
+  },
+  "adjustment_form": {
+    "add-level-btn": "Add Adjustment Operations",
+    "BreadCrump": "Adjustment Operations",
+    "adjustment_list": "Adjustment List",
+    "edit": "Edit",
+    "adjustment_details": "Adjustment Details",
+    "table": {
+      "category_name": "Category Name",
+      "form_lable": "Form Lable",
+      "location_name": "Location name",
+      "form_date_time": "Date",
+      "created_by": "created by",
+      "created_at": "created at",
+      "approved_at": "Approved At",
+      "work_order_line_num": "Work Order",
+      "doc_number": "Doc. Num",
+      "confirmed_at": "confirmed at",
+      "status": "status",
+      "actions": "Actions"
+    },
+    "form": {
+      "lable": { "lable": "Form Lable", "placeholder": "Enter Category Name" },
+      "I1": { "lable": "Category Name", "placeholder": "Enter Category Name" },
+      "I2": { "lable": "Select Date", "placeholder": "Enter Category Name" },
+      "I3": {
+        "lable": "Doc. Num",
+        "placeholder": "Enter Doc. Num"
+      },
+      "I4": { "lable": "Work Order", "placeholder": "Work Order" },
+      "errors": {
+        "category_name": "Category Name Is Required",
+        "form_date": "Date Is Required",
+        "doc_number": "Doc Number Is Required",
+        "work_order_line_num": "Work Order Is Required"
+      },
+      "button": "Add New adjustment Order",
+      "sucess": "Form Added Successfully",
+      "search": "Search"
+    }
+  },
+  "return_form": {
+    "create": "Create Return",
+    "add-level-btn": "Add Adjustment Operations",
+    "BreadCrump": "Return In Operations",
+    "adjustment_list": "Adjustment List",
+    "edit": "Edit",
+    "adjustment_details": "Adjustment Details",
+    "table": {
+      "category_name": "Category Name",
+      "form_lable": "Form Lable",
+      "location_name": "Location name",
+      "form_date_time": "Date",
+      "created_by": "created by",
+      "created_at": "created at",
+      "approved_at": "Approved At",
+      "work_order_line_num": "Work Order",
+      "doc_number": "Doc. Num",
+      "confirmed_at": "confirmed at",
+      "status": "status",
+      "actions": "Actions"
+    }
+  },
+  "operation_details": {
+    "cols": {
+      "item_batch": "Item Batch",
+      "barcode": "Barcode",
+      "date": "Date",
+      "finish_level": "Finshing Level",
+      "material_name": "Materail Name",
+      "item_name": "Item Name",
+      "specifications": "Specifications",
+      "shape_name": "shape Name",
+      "sku_code": "sku code",
+      "operation_quantity": "Operation Quantity",
+      "quantity": "Quantity",
+      "category_name": "Category Name",
+      "origin_name": "Origin Name",
+      "quantity_after": "Quantity After",
+      "actual_quantity": "Actual Quantity",
+
+      "action": "Actions",
+
+      "item_quantity": "quantity",
+      "unit_cost": "Unit Cost",
+      "uom": "Unit of Measurement",
+
+      "total_cost": "Total Cost",
+      "batch_num": "batch number",
+
+      "production_date": "Prod. Date",
+
+      "card_name": "Item Name",
+
+      "status": "status"
+    },
+    "rows": {
+      "production_date": "<span class='font-bold'>Prod.Date:</span> ",
+      "experation_date": "<span class='font-bold'>Exp.Date:</span>  ",
+      "length": "<span class='font-bold'>Length:</span> ",
+      "width": "<span class='font-bold'>Width:</span> ",
+      "thick_height": "<span class='font-bold'>Thick Height:</span> ",
+      "weight": "<span class='font-bold'>Weight:</span> ",
+      "size": "Size",
+      "diameter": "Dimater"
+    },
+    "header": {
+      "location": "Location",
+      "code": "Code",
+      "doc_num": "Doc. Num",
+      "date_time": "Date",
+      "created_at": "Created At",
+      "to_location": "To Location",
+      "confirm": "Confirmation",
+      "not_confirmed_yet": "Not Confirmed Yet",
+      "status": "Status",
+      "total_items": "Total Items"
+    }
+  },
+  "adjustment_items": {
+    "table": {}
+  },
+  "adjustment_item_form": {
+    "form": {
+      "I1": {
+        "lable": "Current Quantity",
+        "placeholder": "enter new quantity"
+      },
+      "I2": {
+        "lable": "new Quantity",
+        "placeholder": "enter new quantity"
+      },
+      "I3": {
+        "lable": "note",
+        "placeholder": "enter reason of change"
+      },
+      "button": "Edit Item",
+      "success": "dit success",
+      "errors": {
+        "new_quantity": "enter new quantity",
+
+        "reason_of_change": "enter reason of change"
+      }
+    }
+  },
+  "release_item_form": {
+    "form": {
+      "I1": {
+        "lable": "Current Quantity",
+        "placeholder": "Enter new quantity"
+      },
+      "I2": {
+        "lable": "New Quantity",
+        "placeholder": "Enter new quantity"
+      },
+      "I3": {
+        "lable": "note",
+        "placeholder": "enter reason of change"
+      },
+      "button": "Edit Item",
+      "success": "dit success",
+      "errors": {
+        "new_quantity": "enter new quantity",
+        "new_quantity_availability": "this quantity is not available in the stock",
+        "reason_of_change": "enter reason of change"
+      }
+    }
+  },
+  "rfq_form": {
+    "title": "RFQs",
+    "BreadCrump": "Operations",
+    "add_new": "Add New RFQ",
+    "edit_new": "Edit RFQ",
+    "operations": "RFQ Operations",
+    "receive_operations": "Recives Operations",
+    "items": {
+      "item_name": "Item Name",
+      "item_sku_code": "Item Sku Code",
+      "length": "Length",
+      "width": "Width",
+      "thick_height": "Thick Height",
+      "Weight": "Weight",
+      "material": "Material",
+      "shape": "Shape",
+      "origin": "Origin",
+      "color": "color",
+      "item_code": "Item Code"
+    },
+
+    "form": {
+      "last_price": "Last Price",
+      "errors": {
+        "doc_number": "Doc Number",
+        "category_name": "Category Name",
+        "form_datetime": "Date",
+        "work_order_line_num": "Work Order Line Num",
+        "location_to": "Purchasing Department"
+      },
+      "location_type": "Location Type",
+      "add_item": "Add Item",
+      "Edit": "Edit RFQ Form",
+      "button": "Add RFQ Form",
+      "doc_number": "Doc Number",
+      "category_name": "Category Name",
+      "form_datetime": "Date",
+      "tax_value": "Tax Value",
+      "work_order_line_num": "Work Order Line Num",
+      "location_to": "Purchasing Department",
+      "success": "RFQ Added Successfully",
+      "item_price": "Item Price",
+      "discount_price": "Discount Price",
+      "select_vendor": "Select A Vendor",
+      "created_at": "Created AT",
+      "payment_type": "Payment Type",
+      "payment_method": "Payment Method"
+    }
+  },
+  "release_form": {
+    "BreadCrump": "Release Operations",
+    "release_list": "Release List",
+    "release_details": "Release Details",
+    "add_new_item": "Add Items",
+    "edit_release": "Edit Release",
+    "table": {
+      "category_name": "Category Name",
+      "form_lable": "Form Lable",
+      "source_location": "Source Location",
+      "destination_location": "Destination",
+      "form_date_time": "Form Date",
+      "created_by": "created by",
+      "work_order_line_num": "Work Order",
+      "doc_number": "Doc. Num",
+      "created_at": "created at",
+      "confirmed_at": "confirmed at",
+      "status": "status",
+      "actions": "Actions"
+    },
+    "form": {
+      "lable": { "lable": "Form Lable" },
+      "I1": { "lable": "Category Name", "placeholder": "Enter Category Name" },
+      "I2": { "lable": "Location Name", "placeholder": "Select Location" },
+      "I3": { "lable": "Select Date", "placeholder": "Enter Category Name" },
+      "I4": {
+        "lable": "Ref. Doc",
+        "placeholder": "Enter Ref. Doc"
+      },
+      "I5": { "lable": "Work Order", "placeholder": "Enter Work Order" },
+      "errors": {
+        "category_name": "Category Name Is Required",
+        "to_location": "Location Is Required",
+        "form_datetime": "Date Is Required",
+        "doc_number": "Doc Number Is Required",
+        "work_order_line_num": "Work Order Is Required",
+        "source_form_id": "Work Order Is Required"
+      },
+      "button": "Add New Release Order",
+      "sucess": "Form Added Successfully",
+      "search": "Search"
+    }
+  },
+  "receive_form": {
+    "BreadCrump": "Receive Operations",
+
+    "table": {
+      "form_lable": "Form Lable",
+      "source_location": "Source Location",
+      "destination_location": "Destination Location",
+      "source_operation_type": "Source Operation Type",
+      "source_form_id": "Source Form ID",
+      "form_date_time": "Date",
+      "created_by": "created by",
+      "work_order_line_num": "Work Order",
+      "doc_number": "Ref. Doc",
+      "created_at": "created at",
+      "confirmed_at": "confirmed at",
+      "date": "Date",
+      "status": "status",
+      "actions": "Actions",
+      "source_operation": "Source Operation",
+      "details": "Details"
+    },
+    "form": {
+      "I1": { "lable": "Category Name", "placeholder": "Enter Category Name" },
+      "I2": { "lable": "Location Name", "placeholder": "Select Location" },
+      "I3": { "lable": "Select Date", "placeholder": "Enter Category Name" },
+      "I4": {
+        "lable": "Ref. Doc",
+        "placeholder": "Enter Ref. Doc"
+      },
+      "I5": { "lable": "Work Order", "placeholder": "Enter Work Order" },
+      "errors": {
+        "category_name": "Category Name Is Required",
+        "to_location": "Location Is Required",
+        "form_datetime": "Date Is Required",
+        "doc_number": "Doc Number Is Required",
+        "work_order_line_num": "Work Order Is Required",
+        "source_form_id": "Work Order Is Required"
+      },
+      "button": "Add Form Data",
+      "sucess": "Form Added Successfully",
+      "search": "Search"
+    }
+  },
+  "rin_form": {
+    "BreadCrump": "Return Operations",
+    "rin_list": "Return List",
+    "rin_details": "Return Details",
+    "edit_rin": "Edit Return",
+    "add_new_item": "Add Items",
+    "table": {
+      "form_lable": "Form Lable",
+      "source_location": "Source Location",
+      "destination_location": "Destination Location",
+      "source_operation_type": "Source Operation Type",
+      "source_form_id": "Source Form ID",
+      "form_date_time": "Date",
+      "created_by": "created by",
+      "work_order_line_num": "Work Order",
+      "doc_number": "Ref. Doc",
+      "created_at": "created at",
+      "confirmed_at": "confirmed at",
+      "date": "Date",
+      "status": "status",
+      "actions": "Actions",
+      "source_operation": "Source Operation",
+      "details": "Details"
+    },
+    "form": {
+      "I1": { "lable": "Category Name", "placeholder": "Enter Category Name" },
+      "I2": { "lable": "Location Name", "placeholder": "Select Location" },
+      "I3": { "lable": "Select Date", "placeholder": "Enter Category Name" },
+      "I4": {
+        "lable": "Ref. Doc",
+        "placeholder": "Enter Ref. Doc"
+      },
+      "I5": { "lable": "Work Order", "placeholder": "Enter Work Order" },
+      "errors": {
+        "category_name": "Category Name Is Required",
+        "to_location": "Location Is Required",
+        "form_datetime": "Date Is Required",
+        "doc_number": "Doc Number Is Required",
+        "work_order_line_num": "Work Order Is Required",
+        "source_form_id": "Work Order Is Required"
+      },
+      "button": "Add Form Data",
+      "sucess": "Form Added Successfully",
+      "search": "Search"
+    }
+  },
+  "add_items_to_form": {
+    "page_lable": "Items",
+    "btn_lable": "Count of selected item",
+    "BreadCrump": {
+      "release": {
+        "curr_page": "Add items to release"
+      },
+      "adjustment": {
+        "curr_page": "Add items to adjustment"
+      },
+      "RFQ": {
+        "curr_page": "Add items to RFQ"
+      },
+      "rin": {
+        "curr_page": "Add items to Retrun"
+      }
+    },
+    "release": {
+      "btn": "Add to release order"
+    },
+    "adjustment": {
+      "btn": "Add to adjustment order"
+    },
+    "rin": {
+      "btn": "Add to Retrun order"
+    },
+    "filter": {
+      "finishing_level": "Finish Level",
+      "categories": "Categories",
+      "item_cards": "Item Cards",
+      "item_sku_codes": "Sku Code",
+      "shapes": "Shapes",
+      "bundle_groups": "Bunde Group",
+      "origins": "Origins",
+      "colors": "Colors",
+      "material_titles": "Material Titles",
+      "vendor": "Vendor",
+      "category": "Category",
+      "payment_type": "payment type",
+      "payment_method": "payment method",
+      "bill_type": "Bill Type"
+    }
+  },
+  "create_item": {
+    "title": "Create Item",
+    "form": {
+      "title": "Create Item",
+      "part_one": "Item Information",
+      "part_two": "dimensions",
+      "part_three": "Item Specifications",
+      "drop_down": {
+        "I1": {
+          "label": "Material Name",
+          "placeholder": "Select Material Name"
+        },
+        "I2": {
+          "label": "Shape",
+          "placeholder": "Select Shape"
+        },
+        "I3": {
+          "label": "Origin",
+          "placeholder": "Select Origin"
+        },
+
+        "I4": {
+          "label": "Bundle",
+          "placeholder": "Select Bundle"
+        },
+        "I5": {
+          "label": "Category",
+          "placeholder": "Select Category"
+        },
+        "I6": {
+          "label": "Color",
+          "placeholder": "Select Color"
+        }
+      },
+      "I1": { "label": "Item Name", "placeholder": "Enter Item Name" },
+      "I2": { "label": "Sku Code", "placeholder": "Enter Sku Code" },
+      "I3": {
+        "label": "Unit of Measurement",
+        "placeholder": "Select Unit of Measurement"
+      },
+      "I4": {
+        "label": "Item Type",
+        "placeholder": "Select Item type"
+      },
+      "dimensions": {
+        "I1": { "label": "Item Length", "placeholder": "Enter Item Length" },
+        "I2": {
+          "label": "Item Thick Height",
+          "placeholder": "Enter Thick Height"
+        },
+        "I3": { "label": "Item Width", "placeholder": "Enter Item Width" },
+        "I4": { "label": "Item Weight", "placeholder": "Enter Item Weight" }
+      },
+      "errors": {
+        "item_name": "Item Name is required",
+        "item_sku_code": "SKU Code is required",
+        "item_material_id": "Material ID is required",
+        "shape_id": "Shape ID is required",
+        "origin_id": "Origin ID is required",
+        "item_parent": "Parent Item is required",
+        "bundle_id": "Bundle ID is required",
+        "length": "Length is required",
+        "width": "Width is required",
+        "thick_height": "Height is required",
+        "weight": "Weight is required"
+      },
+      "submit": "Create Item"
+    }
+  },
+  "show-room": {
+    "search_placeholder": "Search by name",
+    "details": {
+      "api_response": {
+        "batch_id": "Batch ID",
+        "batch_num": "Batch Number",
+        "item_id": "Item ID",
+        "sku_code": "Item SKU Code",
+        "item_name": "Item Name",
+        "item_code": "Item Code",
+        "last_price": "Last Price",
+        "market_price": "Market Price",
+        "uom_id": "UOM ID",
+        "uom": "Unit of Measure",
+        "bundle_id": "Bundle ID",
+        "bundle_serial": "Bundle Serial",
+        "origin_id": "Origin ID",
+        "origin_name": "Origin Name",
+        "material_id": "Material ID",
+        "material_nicknames": "Material Nicknames",
+        "category_id": "Category ID",
+        "category_name": "Category Name",
+        "shape_id": "Shape ID",
+        "shape_name": "Shape Name",
+        "classification_id": "Classification ID",
+        "finishing_level_id": "Finishing Level ID",
+        "finishing_level": "Finishing Level",
+        "colour_id": "Colour ID",
+        "colour_name": "Colour Name",
+        "production_date": "Production Date",
+        "exp_date": "Expiration Date",
+        "barcode": "Barcode",
+        "unit_cost": "Unit Cost",
+        "total_cost": "Total Cost",
+        "status": "Status",
+        "length": "Length",
+        "width": "Width",
+        "thick_height": "Thick Height",
+        "weight": "Weight",
+        "size": "Size",
+        "diameter": "Diameter",
+        "batch_com_code": "Batch Com Code",
+        "media": "Media",
+        "item_media": "Item Media",
+        "material_media": "Material Media"
+      }
+    }
+  }
+}
